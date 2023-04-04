@@ -1,0 +1,17 @@
+Flexbox
+Task 1
+In this task, the list items are the navigation for a site. They should be laid out as a row, with an equal amount of space between each item.
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills/flex-task1.png
+
+Task 2
+In this task, the list items are all different sizes, but we want them to be displayed as three equal sized columns, no matter what content is in each item.
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills/flex-task2.png
+
+Task 3
+Use flexbox to center the child inside the parent. Note that there is not just one possible solution here.
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills/flex-task3.png
+
+Task 4
+In this task, we want you to arrange these items into rows as in the image below:
